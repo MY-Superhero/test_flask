@@ -8,3 +8,6 @@ d = 4
 
 e = 5
 
+def index()
+	return "Hello"
+
