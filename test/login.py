@@ -13,3 +13,7 @@ def index()
 
 def index2()
 	return "Bye"
+
+f = 6
+
+
