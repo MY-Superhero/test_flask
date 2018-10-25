@@ -11,3 +11,5 @@ e = 5
 def index()
 	return "Hello"
 
+def index2()
+	return "Bye"
